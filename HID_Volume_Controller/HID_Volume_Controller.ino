@@ -5,12 +5,13 @@
 
 /* Components */
 Encoder knobVol(2, 3);  // VOLUME KNOB
-const int buttonMute = 4; // MUTE BUTTON
-const int buttonSource = 5; // SOUND SWITCH SHORTCUT BUTTON
+const int buttonSource = 4; // SOUND SWITCH SHORTCUT BUTTON
+const int buttonMute = 5; // MUTE BUTTON
 const int switchMain = 6; // MAIN TOGGLE SWITCH 
 
+
 /* Variables */
-boolean hidRunning = false;
+bool hidRunning = false;
 long volValue  = -999; 
 
 /* Input States */
