@@ -1,7 +1,7 @@
 Giant-Volume-Knob
 ===================
 
-![Volume Knob](https://cdn.instructables.com/F1Q/NCYG/ISCBVQSW/F1QNCYGISCBVQSW.ANIMATED.LARGE.gif "Volume Knob")
+![Volume Knob](http://imgur.com/rUDHrT3 "Volume Knob")
 
 USB Volume & Output Device control using [Arduino ATmega32u4](https://www.arduino.cc/en/Hacking/PinMapping32u4) boards
 
