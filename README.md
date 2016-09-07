@@ -1,6 +1,8 @@
 Giant-Volume-Knob
 ===================
 
+![Volume Knob](https://cdn.instructables.com/F1Q/NCYG/ISCBVQSW/F1QNCYGISCBVQSW.ANIMATED.LARGE.gif "Volume Knob")
+
 USB Volume & Output Device control using [Arduino ATmega32u4](https://www.arduino.cc/en/Hacking/PinMapping32u4) boards
 
 Control PC system volume (volume up, down and mute) with a rotary encoder and playback devices with a push button.
