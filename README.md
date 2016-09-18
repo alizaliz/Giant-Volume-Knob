@@ -1,9 +1,12 @@
 Giant-Volume-Knob
 ===================
+USB Volume & Output Device control using [Arduino ATmega32u4](https://www.arduino.cc/en/Hacking/PinMapping32u4) boards
+
+[![Instructables](http://www.instructables.com/static/img/header/header-logo.png)](http://www.instructables.com/id/Giant-USB-Volume-Knob/)
+
 
 ![Volume Knob](Pan2.gif "Volume Knob")
 
-USB Volume & Output Device control using [Arduino ATmega32u4](https://www.arduino.cc/en/Hacking/PinMapping32u4) boards
 
 Control PC system volume (volume up, down and mute) with a rotary encoder and playback devices with a push button.
  N.B. Cycling playback devices is achieved by sending shortcut key strokes for SoundSwitch application.
